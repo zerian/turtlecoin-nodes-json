@@ -1,68 +1,28 @@
 {
     "nodes" : [
         {
-            "name": "US-EAST-1",
-            "url": "http://node-1.nyc.turtlenode.io",
+            "name": "US-WEST",
+            "url": "http://us-west.turtlenode.io",
             "port": 11898
         },
-        {
-            "name": "US-EAST-2",
-            "url": "http://node-2.nyc.turtlenode.io",
+         {
+            "name": "US-EAST",
+            "url": "http://us-east.turtlenode.io",
             "port": 11898
         },
-        {
-            "name": "US-EAST-3",
-            "url": "http://node-3.nyc.turtlenode.io",
+         {
+            "name": "EUROPE",
+            "url": "http://europe.turtlenode.io",
             "port": 11898
         },
-        {
-            "name": "US-WEST-1",
-            "url": "http://node-1.sfo.turtlenode.io",
+         {
+            "name": "ASIA",
+            "url": "http://asia.turtlenode.io",
             "port": 11898
         },
-        {
-            "name": "US-WEST-2",
-            "url": "http://node-2.sfo.turtlenode.io",
-            "port": 11898
-        },
-        {
-            "name": "US-WEST-3",
-            "url": "http://node-3.sfo.turtlenode.io",
-            "port": 11898
-        },
-        {
-            "name": "EU-AMS-1",
-            "url": "http://node-1.ams.turtlenode.io",
-            "port": 11898
-        },
-        {
-            "name": "EU-AMS-2",
-            "url": "http://node-2.ams.turtlenode.io",
-            "port": 11898
-        },
-        {
-            "name": "EU-AMS-3",
-            "url": "http://node-3.ams.turtlenode.io",
-            "port": 11898
-        },
-        {
-            "name": "AS-SIN-1",
-            "url": "http://node-1.sin.turtlenode.io",
-            "port": 11898
-        },
-        {
-            "name": "AS-SIN-2",
-            "url": "http://node-2.sin.turtlenode.io",
-            "port": 11898
-        },
-        {
-            "name": "AS-SIN-3",
-            "url": "http://node-3.sin.turtlenode.io",
-            "port": 11898
-        },
-        {
-            "name": "Seed.Turtlenode.Io",
-            "url": "http://seed.turtlenode.io",
+         {
+            "name": "PUBLIC",
+            "url": "http://public.turtlenode.io",
             "port": 11898
         },
         {
