@@ -2,32 +2,32 @@
     "nodes" : [
         {
             "name": "US-WEST",
-            "url": "http://us-west.turtlenode.io",
+            "url": "us-west.turtlenode.io",
             "port": 11898
         },
          {
             "name": "US-EAST",
-            "url": "http://us-east.turtlenode.io",
+            "url": "us-east.turtlenode.io",
             "port": 11898
         },
          {
             "name": "EUROPE",
-            "url": "http://europe.turtlenode.io",
+            "url": "europe.turtlenode.io",
             "port": 11898
         },
          {
             "name": "ASIA",
-            "url": "http://asia.turtlenode.io",
+            "url": "asia.turtlenode.io",
             "port": 11898
         },
          {
             "name": "PUBLIC",
-            "url": "http://public.turtlenode.io",
+            "url": "public.turtlenode.io",
             "port": 11898
         },
         {
             "name": "Daemon.Turtle.Link",
-            "url": "http://daemon.turtle.link",
+            "url": "daemon.turtle.link",
             "port": 11898
         }
     ]
