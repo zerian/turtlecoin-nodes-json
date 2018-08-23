@@ -3,32 +3,38 @@
         {
             "name": "US-WEST",
             "url": "us-west.turtlenode.io",
-            "port": 11898
+            "port": 11898,
+            "ssl: false
         },
          {
             "name": "US-EAST",
             "url": "us-east.turtlenode.io",
-            "port": 11898
+            "port": 11898,
+            "ssl: false
         },
          {
             "name": "EUROPE",
             "url": "europe.turtlenode.io",
-            "port": 11898
+            "port": 11898,
+            "ssl: false
         },
          {
             "name": "ASIA",
             "url": "asia.turtlenode.io",
-            "port": 11898
+            "port": 11898,
+            "ssl: false
         },
          {
             "name": "PUBLIC",
             "url": "public.turtlenode.io",
-            "port": 11898
+            "port": 11898,
+            "ssl: false
         },
         {
             "name": "Daemon.Turtle.Link",
             "url": "daemon.turtle.link",
-            "port": 11898
+            "port": 11898,
+            "ssl: false
         }
     ]
 }
