@@ -35,6 +35,12 @@
             "url": "daemon.turtle.link",
             "port": 11898,
             "ssl": false
-        }
+        },
+        {
+            "name": "PUBLIC TurtleNode NET",
+            "url": "public.turtlenode.net",
+            "port": 11898,
+            "ssl": false
+        }        
     ]
 }
