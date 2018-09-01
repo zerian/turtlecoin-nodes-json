@@ -41,6 +41,12 @@
             "url": "public.turtlenode.net",
             "port": 11898,
             "ssl": false
-        }        
+        },
+        {
+            "name": "Turtle-Node.com Public",
+            "url": "public.turtle-node.com",
+            "port": 11898,
+            "ssl": false
+        }
     ]
 }
