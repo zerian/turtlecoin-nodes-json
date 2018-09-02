@@ -47,6 +47,18 @@
             "url": "public.turtle-node.com",
             "port": 11898,
             "ssl": false
+        },
+        {
+            "name": "Turtle-Node.com USA",
+            "url": "usa.turtle-node.com",
+            "port": 11898,
+            "ssl": false
+        },
+        {
+            "name": "Turtle-Node.com EU",
+            "url": "eu.turtle-node.com",
+            "port": 11898,
+            "ssl": false
         }
     ]
 }
