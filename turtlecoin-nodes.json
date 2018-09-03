@@ -1,6 +1,12 @@
 {
     "nodes" : [
         {
+            "name": "EU",
+            "url": "turtle-node.me",
+            "port": 11898,
+            "ssl": false
+        },
+        {
             "name": "US-WEST",
             "url": "us-west.turtlenode.io",
             "port": 11898,
