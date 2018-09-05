@@ -7,6 +7,12 @@
             "ssl": false
         },
         {
+            "name": "EU",
+            "url": "racing-americanas.ga",
+            "port": 11898,
+            "ssl": false
+        },
+        {
             "name": "US-WEST",
             "url": "us-west.turtlenode.io",
             "port": 11898,
