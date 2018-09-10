@@ -2,6 +2,12 @@
     "nodes" : [
         {
             "name": "EU",
+            "url": "london.turtlenode.online",
+            "port": 11898,
+            "ssl": false
+        },
+        {
+            "name": "EU",
             "url": "turtle-node.me",
             "port": 11898,
             "ssl": false
