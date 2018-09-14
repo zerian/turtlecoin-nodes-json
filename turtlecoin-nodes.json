@@ -89,6 +89,12 @@
             "url": "skinnerturtle.ddns.net",
             "port": 11898,
             "ssl": false
+        },
+        {
+            "name": "fr.trtl.no",
+            "url": "fr.trtl.no",
+            "port": 11898,
+            "ssl": false
         }
     ]
 }
