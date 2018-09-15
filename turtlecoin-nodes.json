@@ -85,12 +85,6 @@
             "ssl": false
         },
         {
-            "name": "turtlenode.uk",
-            "url": "public.turtlenode.uk",
-            "port": 11898,
-            "ssl": false
-        },
-        {
             "name": "skinner.aus",
             "url": "skinnerturtle.ddns.net",
             "port": 11898,
