@@ -42,6 +42,12 @@
             "port": 11898,
             "ssl": false
         },
+        {
+            "name": "CHINA-ASIA ",
+            "url": "trtl.top",
+            "port": 11898,
+            "ssl": false
+        },
          {
             "name": "PUBLIC",
             "url": "public.turtlenode.io",
