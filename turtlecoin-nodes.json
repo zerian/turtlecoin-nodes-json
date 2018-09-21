@@ -95,6 +95,12 @@
             "url": "fr.trtl.no",
             "port": 11898,
             "ssl": false
+        },
+        {
+            "name": "Hungarian turtle node",
+            "url": "79.122.99.180",
+            "port": 11898,
+            "ssl": false
         }
     ]
 }
