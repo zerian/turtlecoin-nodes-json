@@ -1,6 +1,48 @@
 {
     "nodes" : [
         {
+            "name": "TURTLE-NODE.COM GEO",
+            "url": "geo.turtle-node.com",
+            "port": 11898,
+            "ssl": false
+        },
+        {
+            "name": "TURTLE-NODE.COM NA",
+            "url": "na.turtle-node.com",
+            "port": 11898,
+            "ssl": false
+        },
+        {
+            "name": "TURTLE-NODE.COM EU",
+            "url": "eu.turtle-node.com",
+            "port": 11898,
+            "ssl": false
+        },
+        {
+            "name": "TURTLE-NODE.COM OC",
+            "url": "oc.turtle-node.com",
+            "port": 11898,
+            "ssl": false
+        },
+        {
+            "name": "TURTLE-NODE.COM SA",
+            "url": "sa.turtle-node.com",
+            "port": 11898,
+            "ssl": false
+        },
+        {
+            "name": "TURTLE-NODE.COM AF",
+            "url": "af.turtle-node.com",
+            "port": 11898,
+            "ssl": false
+        },
+        {
+            "name": "TURTLE-NODE.COM AS",
+            "url": "as.turtle-node.com",
+            "port": 11898,
+            "ssl": false
+        },
+        {
             "name": "EU",
             "url": "london.turtlenode.online",
             "port": 11898,
@@ -24,19 +66,19 @@
             "port": 11898,
             "ssl": false
         },
-         {
+        {
             "name": "US-EAST",
             "url": "us-east.turtlenode.io",
             "port": 11898,
             "ssl": false
         },
-         {
+        {
             "name": "EUROPE",
             "url": "europe.turtlenode.io",
             "port": 11898,
             "ssl": false
         },
-         {
+        {
             "name": "ASIA",
             "url": "asia.turtlenode.io",
             "port": 11898,
@@ -48,7 +90,7 @@
             "port": 11898,
             "ssl": false
         },
-         {
+        {
             "name": "PUBLIC",
             "url": "public.turtlenode.io",
             "port": 11898,
@@ -63,24 +105,6 @@
         {
             "name": "PUBLIC TurtleNode NET",
             "url": "public.turtlenode.net",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "Turtle-Node.com Public",
-            "url": "public.turtle-node.com",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "Turtle-Node.com USA",
-            "url": "usa.turtle-node.com",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "Turtle-Node.com EU",
-            "url": "eu.turtle-node.com",
             "port": 11898,
             "ssl": false
         },
