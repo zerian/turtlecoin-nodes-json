@@ -1,136 +1,136 @@
 {
-    "nodes" : [
-        {
-            "name": "Val's Node",
-            "url": "val.turtlenode.online",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "TURTLE-NODE.COM GEO",
-            "url": "geo.turtle-node.com",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "TURTLE-NODE.COM NA",
-            "url": "na.turtle-node.com",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "TURTLE-NODE.COM EU",
-            "url": "eu.turtle-node.com",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "TURTLE-NODE.COM OC",
-            "url": "oc.turtle-node.com",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "TURTLE-NODE.COM SA",
-            "url": "sa.turtle-node.com",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "TURTLE-NODE.COM AF",
-            "url": "af.turtle-node.com",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "TURTLE-NODE.COM AS",
-            "url": "as.turtle-node.com",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "EU",
-            "url": "london.turtlenode.online",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "EU",
-            "url": "turtle-node.me",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "EU",
-            "url": "racing-americanas.ga",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "US-WEST",
-            "url": "us-west.turtlenode.io",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "US-EAST",
-            "url": "us-east.turtlenode.io",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "EUROPE",
-            "url": "europe.turtlenode.io",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "ASIA",
-            "url": "asia.turtlenode.io",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "CHINA-ASIA ",
-            "url": "trtl.top",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "PUBLIC",
-            "url": "public.turtlenode.io",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "Daemon.Turtle.Link",
-            "url": "daemon.turtle.link",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "PUBLIC TurtleNode NET",
-            "url": "public.turtlenode.net",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "skinner.aus",
-            "url": "skinnerturtle.ddns.net",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "fr.trtl.no",
-            "url": "fr.trtl.no",
-            "port": 11898,
-            "ssl": false
-        },
-        {
-            "name": "Hungarian turtle node",
-            "url": "79.122.99.180",
-            "port": 11898,
-            "ssl": false
-        }
-    ]
+  "nodes": [
+    {
+      "name": "ASIA",
+      "url": "asia.turtlenode.io",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "CHINA-ASIA",
+      "url": "trtl.top",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Daemon.Turtle.Link",
+      "url": "daemon.turtle.link",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "EU",
+      "url": "london.turtlenode.online",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "EU",
+      "url": "turtle-node.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "EU",
+      "url": "racing-americanas.ga",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "EUROPE",
+      "url": "europe.turtlenode.io",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "fr.trtl.no",
+      "url": "fr.trtl.no",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Hungarian turtle node",
+      "url": "79.122.99.180",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "PUBLIC",
+      "url": "public.turtlenode.io",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "PUBLIC TurtleNode NET",
+      "url": "public.turtlenode.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "skinner.aus",
+      "url": "skinnerturtle.ddns.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TURTLE-NODE.COM GEO",
+      "url": "geo.turtle-node.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TURTLE-NODE.COM AF",
+      "url": "af.turtle-node.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TURTLE-NODE.COM AS",
+      "url": "as.turtle-node.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TURTLE-NODE.COM EU",
+      "url": "eu.turtle-node.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TURTLE-NODE.COM NA",
+      "url": "na.turtle-node.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TURTLE-NODE.COM OC",
+      "url": "oc.turtle-node.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TURTLE-NODE.COM SA",
+      "url": "sa.turtle-node.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "US-EAST",
+      "url": "us-east.turtlenode.io",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "US-WEST",
+      "url": "us-west.turtlenode.io",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Val's Node",
+      "url": "val.turtlenode.online",
+      "port": 11898,
+      "ssl": false
+    }
+  ]
 }
