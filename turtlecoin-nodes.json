@@ -1,6 +1,12 @@
 {
     "nodes" : [
         {
+            "name": "Val's Node",
+            "url": "val.turtlenode.online",
+            "port": 11898,
+            "ssl": false
+        },
+        {
             "name": "TURTLE-NODE.COM GEO",
             "url": "geo.turtle-node.com",
             "port": 11898,
