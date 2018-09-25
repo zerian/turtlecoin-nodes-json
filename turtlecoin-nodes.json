@@ -19,6 +19,12 @@
       "ssl": false
     },
     {
+      "name": "DickSmasher's Node",
+      "url": "dicksmasher.turtlenode.online",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "EU",
       "url": "london.turtlenode.online",
       "port": 11898,
