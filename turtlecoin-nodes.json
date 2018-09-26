@@ -61,6 +61,12 @@
       "ssl": false
     },
     {
+      "name": "turtle-japakar",
+      "url": "turtle.japakar.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "PUBLIC",
       "url": "public.turtlenode.io",
       "port": 11898,
