@@ -143,6 +143,12 @@
       "url": "val.turtlenode.online",
       "port": 11898,
       "ssl": false
+    },
+    {
+      "name": "VIETNAM",
+      "url": "turtlenode1.hopto.org",
+      "port": 11898,
+      "ssl": false
     }
   ]
 }
