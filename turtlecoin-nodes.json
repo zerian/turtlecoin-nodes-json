@@ -149,6 +149,12 @@
       "url": "turtlenode1.hopto.org",
       "port": 11898,
       "ssl": false
+    },
+    {
+      "name": "greywolf",
+      "url": "turtlenode.co",
+      "port": 11898,
+      "ssl": false
     }
   ]
 }
