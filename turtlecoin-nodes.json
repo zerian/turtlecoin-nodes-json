@@ -13,6 +13,12 @@
       "ssl": false
     },
     {
+      "name": "CHRISCRYPTO",
+      "url": "trtlco.in",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Daemon.Turtle.Link",
       "url": "daemon.turtle.link",
       "port": 11898,
