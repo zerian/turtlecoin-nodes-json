@@ -1,13 +1,13 @@
 {
   "nodes": [
     {
-      "name": "ASIA",
+      "name": "ASIA - asia.turtlenode.io",
       "url": "asia.turtlenode.io",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "CHINA-ASIA",
+      "name": "CHINA-ASIA - trtl.top",
       "url": "trtl.top",
       "port": 11898,
       "ssl": false
@@ -37,25 +37,25 @@
       "ssl": false
     },
     {
-      "name": "EU",
+      "name": "EU - london.turtlenode.online",
       "url": "london.turtlenode.online",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "EU",
+      "name": "EU - racing-americanas.ga",
       "url": "racing-americanas.ga",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "EU",
+      "name": "EU - turtle-node.me",
       "url": "turtle-node.me",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "EUROPE",
+      "name": "EUROPE - europe.turtlenode.io",
       "url": "europe.turtlenode.io",
       "port": 11898,
       "ssl": false
@@ -85,7 +85,7 @@
       "ssl": false
     },
     {
-      "name": "PUBLIC",
+      "name": "PUBLIC - public.turtlenode.io",
       "url": "public.turtlenode.io",
       "port": 11898,
       "ssl": false
@@ -157,13 +157,13 @@
       "ssl": false
     },
     {
-      "name": "US-EAST",
+      "name": "US-EAST - us-east.turtlenode.io",
       "url": "us-east.turtlenode.io",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "US-WEST",
+      "name": "US-WEST - us-west.turtlenode.io",
       "url": "us-west.turtlenode.io",
       "port": 11898,
       "ssl": false
@@ -175,7 +175,7 @@
       "ssl": false
     },
     {
-      "name": "VIETNAM",
+      "name": "VIETNAM - turtlenode1.hopto.org",
       "url": "turtlenode1.hopto.org",
       "port": 11898,
       "ssl": false
