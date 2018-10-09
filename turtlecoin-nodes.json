@@ -162,5 +162,11 @@
       "port": 11898,
       "ssl": false
     }
+    {
+      "name": "Xaz Node",
+      "url": "35.184.50.5",
+      "port": 11898,
+      "ssl": false
+    }
   ]
 }
