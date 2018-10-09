@@ -36,7 +36,7 @@
       "port": 11898,
       "ssl": false
     },
-    {  
+    {
       "name": "EU",
       "url": "london.turtlenode.online",
       "port": 11898,
@@ -44,13 +44,13 @@
     },
     {
       "name": "EU",
-      "url": "turtle-node.me",
+      "url": "racing-americanas.ga",
       "port": 11898,
       "ssl": false
     },
     {
       "name": "EU",
-      "url": "racing-americanas.ga",
+      "url": "turtle-node.me",
       "port": 11898,
       "ssl": false
     },
@@ -99,6 +99,12 @@
     {
       "name": "turtle-japakar",
       "url": "turtle.japakar.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Turtle Node US West",
+      "url": "167.99.168.158",
       "port": 11898,
       "ssl": false
     },
