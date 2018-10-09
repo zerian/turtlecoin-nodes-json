@@ -31,6 +31,12 @@
       "ssl": false
     },
     {
+      "name": "Dela Turtle EU",
+      "url": "delaturtle.ddns.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {  
       "name": "EU",
       "url": "london.turtlenode.online",
       "port": 11898,
