@@ -7,6 +7,12 @@
       "ssl": false
     },
     {
+      "name": "aneki's Sewer Node - 2.5 TRTL Fee",
+      "url": "sewer.turtlecoin.club",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Australia/Brisbane - Thingyweb.com.au",
       "url": "trtlnode.thingyweb.com.au",
       "port": 11898,
