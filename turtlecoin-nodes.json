@@ -7,6 +7,12 @@
       "ssl": false
     },
     {
+      "name": "Australia/Brisbane - Thingyweb.com.au",
+      "url": "trtlnode.thingyweb.com.au",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "ASIA - asia.turtlenode.io",
       "url": "asia.turtlenode.io",
       "port": 11898,
