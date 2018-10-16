@@ -85,6 +85,12 @@
       "ssl": false
     },
     {
+      "name": "Gerry's Free Node",
+      "url": "node.turtlecoin.rocks",
+      "port": 12998,
+      "ssl": false
+    },
+    {
       "name": "GoCrypto Romania",
       "url": "turtlenode.gocrypto.ro",
       "port": 11898,
