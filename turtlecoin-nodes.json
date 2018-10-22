@@ -37,6 +37,12 @@
       "ssl": false
     },
     {
+      "name": "Contabo - Germany",
+      "url": "vmi207638.contaboserver.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Daemon.Turtle.Link",
       "url": "daemon.turtle.link",
       "port": 11898,
