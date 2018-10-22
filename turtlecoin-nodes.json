@@ -109,6 +109,12 @@
       "ssl": false
     },
     {
+      "name": "Hashvault.pro turtle node",
+      "url": "nodes.hashvault.pro",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "PUBLIC - public.turtlenode.io",
       "url": "public.turtlenode.io",
       "port": 11898,
