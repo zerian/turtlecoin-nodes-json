@@ -25,12 +25,6 @@
       "ssl": false
     },
     {
-      "name": "Contabo - Germany",
-      "url": "vmi207638.contaboserver.net",
-      "port": 11898,
-      "ssl": false
-    },
-    {
       "name": "CHINA-ASIA - trtl.top",
       "url": "trtl.top",
       "port": 11898,
@@ -39,6 +33,12 @@
     {
       "name": "CHRISCRYPTO",
       "url": "trtlco.in",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Contabo - Germany",
+      "url": "vmi207638.contaboserver.net",
       "port": 11898,
       "ssl": false
     },
