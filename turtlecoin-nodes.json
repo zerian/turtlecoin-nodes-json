@@ -103,8 +103,14 @@
       "ssl": false
     },
     {
-      "name": "greywolf",
+      "name": "greywolf Germany",
       "url": "turtlenode.co",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "greywolf London",
+      "url": "turtlenode.me",
       "port": 11898,
       "ssl": false
     },
