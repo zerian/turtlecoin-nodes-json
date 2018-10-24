@@ -1,6 +1,12 @@
 {
   "nodes": [
     {
+      "name": "AG's EU Public Node",
+      "url": "public-turtle-node.ga",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "aneki's Aussie Node",
       "url": "node.turtlecoin.club",
       "port": 11898,
