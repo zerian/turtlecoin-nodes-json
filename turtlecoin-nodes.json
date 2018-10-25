@@ -133,6 +133,12 @@
       "ssl": false
     },
     {
+      "name": "Pecunia Italian Node",
+      "url": "turtle.pecunia.network",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "PUBLIC - public.turtlenode.io",
       "url": "public.turtlenode.io",
       "port": 11898,
