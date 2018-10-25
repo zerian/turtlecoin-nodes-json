@@ -85,6 +85,12 @@
       "ssl": false
     },
     {
+      "name": "EU2 - turtle-node.me",
+      "url": "eu.turtle-node.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "EUROPE - europe.turtlenode.io",
       "url": "europe.turtlenode.io",
       "port": 11898,
@@ -93,6 +99,12 @@
     {
       "name": "fr.trtl.no",
       "url": "fr.trtl.no",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "FR - turtle-node.me",
+      "url": "fr.turtle-node.me",
       "port": 11898,
       "ssl": false
     },
@@ -133,6 +145,12 @@
       "ssl": false
     },
     {
+      "name": "NL - turtle-node.me",
+      "url": "nl.turtle-node.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Pecunia Italian Node",
       "url": "turtle.pecunia.network",
       "port": 11898,
@@ -159,6 +177,12 @@
     {
       "name": "SouthEast Asia - Turtleland.fun",
       "url": "turtleland.fun",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "TRTL - turtle-node.me",
+      "url": "trtl.turtle-node.me",
       "port": 11898,
       "ssl": false
     },
@@ -217,8 +241,20 @@
       "ssl": false
     },
     {
+      "name": "UK - turtle-node.me",
+      "url": "uk.turtle-node.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "US-EAST - us-east.turtlenode.io",
       "url": "us-east.turtlenode.io",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "US - turtle-node.me",
+      "url": "us.turtle-node.me",
       "port": 11898,
       "ssl": false
     },
@@ -243,42 +279,6 @@
     {
       "name": "Xaz Node",
       "url": "xaznode.com",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "EU - turtle-node.me",
-      "url": "eu.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "NL - turtle-node.me",
-      "url": "nl.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "FR - turtle-node.me",
-      "url": "fr.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "UK - turtle-node.me",
-      "url": "uk.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "US - turtle-node.me",
-      "url": "us.turtle-node.me",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "TRTL - turtle-node.me",
-      "url": "trtl.turtle-node.me",
       "port": 11898,
       "ssl": false
     }
