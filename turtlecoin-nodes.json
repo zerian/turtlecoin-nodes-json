@@ -175,8 +175,14 @@
       "ssl": false
     },
     {
-      "name": "SouthEast Asia - Turtleland.fun",
-      "url": "turtleland.fun",
+      "name": "Turtleland.fun - Asia",
+      "url": "asia.turtleland.fun",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Turtleland.fun - US",
+      "url": "us.turtleland.fun",
       "port": 11898,
       "ssl": false
     },
