@@ -19,14 +19,14 @@
       "ssl": false
     },
     {
-      "name": "Australia/Brisbane - Thingyweb.com.au",
-      "url": "trtlnode.thingyweb.com.au",
+      "name": "ASIA - asia.turtlenode.io",
+      "url": "asia.turtlenode.io",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "ASIA - asia.turtlenode.io",
-      "url": "asia.turtlenode.io",
+      "name": "Australia/Brisbane - Thingyweb.com.au",
+      "url": "trtlnode.thingyweb.com.au",
       "port": 11898,
       "ssl": false
     },
@@ -175,6 +175,12 @@
       "ssl": false
     },
     {
+      "name": "TRTL - turtle-node.me",
+      "url": "trtl.turtle-node.me",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "TRTL.io - US East",
       "url": "node.trtl.io",
       "port": 11898,
@@ -189,12 +195,6 @@
     {
       "name": "Turtleland.fun - US",
       "url": "us.turtleland.fun",
-      "port": 11898,
-      "ssl": false
-    },
-    {
-      "name": "TRTL - turtle-node.me",
-      "url": "trtl.turtle-node.me",
       "port": 11898,
       "ssl": false
     },
@@ -259,14 +259,14 @@
       "ssl": false
     },
     {
-      "name": "US-EAST - us-east.turtlenode.io",
-      "url": "us-east.turtlenode.io",
+      "name": "US - turtle-node.me",
+      "url": "us.turtle-node.me",
       "port": 11898,
       "ssl": false
     },
     {
-      "name": "US - turtle-node.me",
-      "url": "us.turtle-node.me",
+      "name": "US-EAST - us-east.turtlenode.io",
+      "url": "us-east.turtlenode.io",
       "port": 11898,
       "ssl": false
     },
