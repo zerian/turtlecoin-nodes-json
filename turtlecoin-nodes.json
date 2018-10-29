@@ -253,6 +253,12 @@
       "ssl": false
     },
     {
+      "name": "turtle.mine.nu",
+      "url": "turtle.mine.nu",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "UK - turtle-node.me",
       "url": "uk.turtle-node.me",
       "port": 11898,
