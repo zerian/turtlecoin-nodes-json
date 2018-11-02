@@ -193,6 +193,12 @@
       "ssl": false
     },
     {
+      "name": "TRTL-STORE",
+      "url": "node.trtl-store.com",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Turtleland.fun - Asia",
       "url": "asia.turtleland.fun",
       "port": 11898,
