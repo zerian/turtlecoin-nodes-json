@@ -5,8 +5,14 @@
       "url": "public-turtle-node.ga",
       "port": 11898,
       "ssl": false
+    },    
+    {
+      "name": "All Europe Public Node",
+      "url": "all-europe-turtle-node.ga",
+      "port": 11898,
+      "ssl": false
     },
-     {
+    {
       "name": "Amsterdam EU Public Node",
       "url": "turtlenode.co.uk",
       "port": 11898,
