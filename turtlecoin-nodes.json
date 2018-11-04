@@ -115,6 +115,12 @@
       "ssl": false
     },
     {
+      "name": "fastturtles.ddns.net,
+      "url": "fastturtles.ddns.net",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "FR - turtle-node.me",
       "url": "fr.turtle-node.me",
       "port": 11898,
